@@ -24,24 +24,14 @@ div{
     justify-content: space-between;
     align-items: center;
 }
- input, button{
+label, input, button{
     font-size: 16px;
     line-height: 1.5
 }
-label {
-    margin: 140px;
-}
-.label{
-    display:flex;
-    align-items: center;
-    flex-direction:row ;
+label{
     text-align: right;
     width: 30%;
     margin-right: 2%;
-}
-.text {
-    font:normal normal bold;
-    
 }
 input{
     flex: auto;
